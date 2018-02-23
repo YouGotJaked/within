@@ -13,6 +13,9 @@
 			]
 		}
 	],
+	"AdditionalPluginDirectories": [
+		"Intermediate/Plugins"
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
