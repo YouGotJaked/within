@@ -2,6 +2,8 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Content/*.DS_Store
+Source/*.DS_Store
 .vs
 *.VC.db
 *.opensdf
@@ -11,3 +13,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.DS_Store
+
