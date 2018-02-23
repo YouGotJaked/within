@@ -1,0 +1,58 @@
+Section I: Introduction
+	Don't start until user presses button
+		Trigger: interact with textbook on desktop
+	Time delay: 20s
+	Give chance for user to look around
+	Get familiar with environment	
+
+Section II: Break into Groups
+	Teacher begins lesson, tells class to form groups
+	Trigger: eye contact (line of sight) with students
+	Effect: student moves away
+	Everyone already has formed groups	
+
+Section III: Forced into Group
+	Teacher puts you in group
+	Feeling of worthlessness
+	"No one wants me in their group"
+
+Section IV: Group Interaction
+	
+
+Section V: Inner Monologue
+	Spiraling out of control
+	Filtering
+	Catastrophizing
+
+Section VI: Anxiety Climax
+	Amplified breathing
+	Faster heartrate
+	Racing thoughts
+	Colors: burning hot
+
+Section VII: Deep Breathing
+	Knowledgable figure comes in and teaches diaphragmatic breathing
+		teacher?
+		another student struggling with anxiety?
+	Time delay: 30s
+
+Section VIII: Ending
+	Class dismissed
+	Leave feeling calmed but not cured
+		
+Notes:
+	conversation between 3 people
+		who does Alex think they are?
+		
+
+	Core mechanic: what kind of interactions lead to anxiety climax?
+		group meeting
+		proximity
+		dialogue
+		eye contact
+		define 2-3 animations, filter through
+		live mic, breath, heartbeart
+		posture of AI
+
+	trigger with line of sight
+	focus on 1 thing to teach through animation and timing of interact
