@@ -5,6 +5,8 @@
 	Give chance for user to look around
 	Get familiar with environment and character
 		Who is Alex? --> Give background information
+			Where does the anxiety stem from?
+			Don't explicity tell, give context
 
 ### Section II: Break into Groups ###
 	Teacher begins lesson, tells class to form groups
