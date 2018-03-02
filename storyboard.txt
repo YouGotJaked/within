@@ -1,42 +1,52 @@
-Section I: Introduction
+#Section I: Introduction
 	Don't start until user presses button
 		Trigger: interact with textbook on desktop
 	Time delay: 20s
 	Give chance for user to look around
-	Get familiar with environment	
+	Get familiar with environment and character
+		Who is Alex? --> Give background information
 
-Section II: Break into Groups
+## Section II: Break into Groups
 	Teacher begins lesson, tells class to form groups
-	Trigger: eye contact (line of sight) with students
-	Effect: student moves away
+		Trigger: eye contact (line of sight) with students
+		Effect: student moves away
 	Everyone already has formed groups	
 
-Section III: Forced into Group
+## Section III: Forced into Group
 	Teacher puts you in group
+		Group seems indifferent, Alex takes it as rejection
 	Feeling of worthlessness
-	"No one wants me in their group"
+		"No one wants me in their group"
 
-Section IV: Group Interaction
-	
+## Section IV: Group Interaction
+	How does Alex perceive them?
 
-Section V: Inner Monologue
+## Section V: Inner Monologue
 	Spiraling out of control
-	Filtering
-	Catastrophizing
+		"Why does this always happen"
+	Filtering (Thinking only negative thoughts)
+		
+	Catastrophizing (Thinking worst case scenario for current or future scenarios)
+		Jump to conclusion --> not getting picked for group is a catastrophe
+		"
 
-Section VI: Anxiety Climax
-	Amplified breathing
-	Faster heartrate
+## Section VI: Anxiety Climax
+	Amplified breathing (louder)
+	Faster heartrate (heartrate monitor)
 	Racing thoughts
-	Colors: burning hot
+		Thought loop
+		"Shut up"
+		Music to break loop?
+	Colors: burning hot, motion blur (determine nausea threshold)
 
-Section VII: Deep Breathing
-	Knowledgable figure comes in and teaches diaphragmatic breathing
-		teacher?
-		another student struggling with anxiety?
+## Section VII: Deep Breathing
+	Knowledgable figure comes in and teaches solution: diaphragmatic breathing
+		Teacher?
+		Another student struggling with anxiety?
 	Time delay: 30s
+		Trigger: hand placement detection
 
-Section VIII: Ending
+## Section VIII: Ending
 	Class dismissed
 	Leave feeling calmed but not cured
 		
@@ -44,7 +54,6 @@ Notes:
 	conversation between 3 people
 		who does Alex think they are?
 		
-
 	Core mechanic: what kind of interactions lead to anxiety climax?
 		group meeting
 		proximity
