@@ -43,8 +43,7 @@
 
 ### Section VII: Deep Breathing ###
 	Knowledgable figure comes in and teaches solution: diaphragmatic breathing
-		Teacher?
-		Another student struggling with anxiety?
+		Claire - another student struggling with anxiety?
 	Time delay: 30s
 		Trigger: hand placement detection
 
