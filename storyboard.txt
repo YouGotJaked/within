@@ -1,0 +1,68 @@
+### Section I: Introduction ###
+	Don't start until user presses button
+		Trigger: interact with textbook on desktop
+	Time delay: 20s
+	Give chance for user to look around
+	Get familiar with environment and character
+		Who is Alex? --> Give background information
+			Where does the anxiety stem from?
+			Don't explicity tell, give context
+
+### Section II: Break into Groups ###
+	Teacher begins lesson, tells class to form groups
+		Trigger: eye contact (line of sight) with students
+		Effect: students move away
+	Everyone already has formed groups	
+
+### Section III: Forced into Group ###
+	Teacher puts you in group
+		Group seems indifferent, Alex takes it as rejection
+	Feeling of worthlessness
+		"No one wants me in their group"
+
+### Section IV: Group Interaction ###
+	How does Alex perceive them?
+
+### Section V: Inner Monologue ###
+	Spiraling out of control
+	Filtering (Thinking only negative thoughts)
+		"Why does this always happen to me"
+		"Why am I not better, why doesn't anyone like me"
+	Catastrophizing (Thinking worst case scenario for current or future scenarios)
+		Jump to conclusion --> not getting picked for group is a catastrophe
+			Mild social rejection --> totally shunned by all desirable people
+
+### Section VI: Anxiety Climax ###
+	Amplified breathing (louder)
+	Faster heartrate (heartrate monitor)
+	Racing thoughts
+		Thought loop
+		"Shut up"
+		Music to break loop?
+	Colors: burning hot, motion blur (determine nausea threshold)
+
+### Section VII: Deep Breathing ###
+	Knowledgable figure comes in and teaches solution: diaphragmatic breathing
+		Claire - another student struggling with anxiety?
+	Time delay: 30s
+		Trigger: hand placement detection
+
+### Section VIII: Ending ###
+	Class dismissed
+	Leave feeling calmed but not cured
+		
+Notes:
+	conversation between 3 people
+		who does Alex think they are?
+		
+	Core mechanic: what kind of interactions lead to anxiety climax?
+		group meeting
+		proximity
+		dialogue
+		eye contact
+		define 2-3 animations, filter through
+		live mic, breath, heartbeart
+		posture of AI
+
+	trigger with line of sight
+	focus on 1 thing to teach through animation and timing of interact
