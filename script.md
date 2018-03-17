@@ -65,5 +65,6 @@ After ALEX's initial interaction with the group, his thoughts start to spiral ou
 
 ## Footnotes ##
 
-<a name="filtering">1</a> **Filtering**: thinking only negative thoughts
-<a name="catastrophizing">2</a> **Catastrophizing**: thinking worst case scenario for current or future scenarios; jumping to conclusion that everything bad that happens is a catastrophe
+<a name="filtering">[1]</a> **Filtering**: thinking only negative thoughts
+
+<a name="catastrophizing">[2]</a> **Catastrophizing**: thinking worst case scenario for current or future scenarios; jumping to conclusion that everything bad that happens is a catastrophe
