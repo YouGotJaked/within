@@ -56,6 +56,8 @@ ALEX: *Great. They don't want me in their group. NO ONE wants me in their group.
 
 After ALEX's initial interaction with the group, his thoughts start to spiral out of control. His thought process begins to exhibit both fliltering<sup>[4](#filtering)</sup> and catastrophizing<sup>[5](#catastrophizing)</sup>.
 
+ALEX: *Why does this always happen to me? Why am I not better? Why doesn't anyone like me?  Seriously, it hasn't even been five minutes and everyone already hates me. I bet Mr. Garvey is already annoyed with me too. He asked us to do one simple thing, and I couldn't even do that. I can't do anything right. That's probably why no one wanted me in their group. They dont' wanna be associated with someone as undesirable as me.*
+
 ## Section VI: Anxiety Climax ##
 
 ## Section VII: Deep Breathing ##
