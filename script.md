@@ -2,11 +2,11 @@
 
 ## Users ##
 
-- ALEX: user <!-- still need to decide on a gender, wrote script as male for now -->
+- ALEX<sup>[1](#alex)</sup>: user
 - LARA: student to left
 - FINN: student to right
 - CLAIRE: helpful student
-- MR. GARVEY: teacher <!-- temporary name, can rename in future -->
+- MR. GARVEY<sup>[2](#teacher)</sup>: teacher
 
 ## Section I: Introduction ##
 
@@ -32,8 +32,7 @@ MR. GARVEY: Ok class, it looks like everyone is here so let's begin. My name is 
 
 ALEX: *Oh great, he already has high expectations for us. I can't wait until I inevitably let him down like I do for everyone else.*
 
-<!-- chose 21 as realistic arbitrary number of students, can change in future to something else divisible by 3 -->
-MR. GARVEY: One of my goals this year is to implement more collaborate work among my students. So to kick things off, I want everyone to form groups of three and say one interesting thing you did over the summer as well as what you are most looking forward to this year. There should be 21 of you total, so everyone must be in a group. Aaaand, go!
+MR. GARVEY: One of my goals this year is to implement more collaborate work among my students. So to kick things off, I want everyone to form groups of three and say one interesting thing you did over the summer as well as what you are most looking forward to this year. There should be 21<sup>[3](#students)</sup> of you total, so everyone must be in a group. Aaaand, go!
 
 ALEX: *FUCK. I need to find a group to join right now. I don't care who it is, I just can't be left alone.*
 
@@ -55,7 +54,7 @@ ALEX: *Great. They don't want me in their group. NO ONE wants me in their group.
 
 ## Section V: Inner Monologue ##
 
-After ALEX's initial interaction with the group, his thoughts start to spiral out of control. His thought process begins to exhibit both fliltering<sup>[1](#filtering)</sup> and catastrophizing<sup>[2](#catacatastrophizing)</sup>.
+After ALEX's initial interaction with the group, his thoughts start to spiral out of control. His thought process begins to exhibit both fliltering<sup>[1](#filtering)</sup> and catastrophizing<sup>[2](#catastrophizing)</sup>.
 
 ## Section VI: Anxiety Climax ##
 
@@ -65,6 +64,12 @@ After ALEX's initial interaction with the group, his thoughts start to spiral ou
 
 ## Footnotes ##
 
-<a name="filtering">[1]</a> **Filtering**: thinking only negative thoughts
+<a name="alex">[1]</a> Still need to decide on a gender, wrote script as male for now
 
-<a name="catastrophizing">[2]</a> **Catastrophizing**: thinking worst case scenario for current or future scenarios; jumping to conclusion that everything bad that happens is a catastrophe
+<a name="teacher">[2]</a> Temporary name, can rename in future
+
+<a name="students">[3]</a> Chose 21 as realistic arbitrary number of students, can change in future to something else divisible by 3
+
+<a name="filtering">[4]</a> **Filtering**: thinking only negative thoughts
+
+<a name="catastrophizing">[5]</a> **Catastrophizing**: thinking worst case scenario for current or future scenarios; jumping to conclusion that everything bad that happens is a catastrophe
