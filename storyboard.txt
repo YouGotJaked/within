@@ -6,7 +6,7 @@
 	Get familiar with environment and character
 		Who is Alex? --> Give background information
 			Where does the anxiety stem from?
-			Don't explicity tell, give context
+			Don't explicitly tell, give context
 
 ### Section II: Break into Groups ###
 	Teacher begins lesson, tells class to form groups
@@ -23,18 +23,19 @@
 ### Section IV: Group Interaction ###
 	How does Alex perceive them?
 
-### Section V: Inner Monologue ###
+### Section V: Inner Monologue ### 
 	Spiraling out of control
 	Filtering (Thinking only negative thoughts)
 		"Why does this always happen to me"
 		"Why am I not better, why doesn't anyone like me"
+		"It's been a minute and a half and everyone already hates me"
 	Catastrophizing (Thinking worst case scenario for current or future scenarios)
 		Jump to conclusion --> not getting picked for group is a catastrophe
 			Mild social rejection --> totally shunned by all desirable people
 
 ### Section VI: Anxiety Climax ###
 	Amplified breathing (louder)
-	Faster heartrate (heartrate monitor)
+	Faster heart rate (heart rate monitor)
 	Racing thoughts
 		Thought loop
 		"Shut up"
