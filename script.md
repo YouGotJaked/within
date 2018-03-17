@@ -2,7 +2,7 @@
 
 ## Users ##
 
-- ALEX: user
+- ALEX: user <!-- still need to decide on a gender, wrote script as male for now -->
 - LARA: student to left
 - FINN: student to right
 - CLAIRE: helpful student
@@ -10,7 +10,7 @@
 
 ## Section I: Introduction ##
 
-It is the first day of class for the new school year. The camera fades into ALEX sitting at his/her desk in the front of the classroom.
+It is the first day of class for the new school year. The camera fades into ALEX sitting at his desk in the front of the classroom.
 
 ALEX: *Hmmm I wonder if I know anyone in this class this year. I'll do a casual peek to check and see.*
 
@@ -22,7 +22,7 @@ ALEX: *Pretend like you're looking at the clock or something. Be casual. Be cool
 ALEX: *What are you waiting for, just DO IT.*
 ALEX: *Ok I'm gunna stop thinking about it and actually do it...NOW. Ok NOW. Wait NOW. NOW...Wow I'm pathetic.*
 
-Looking around the classroom, ALEX realizes to his/her dismay that (s)he does not know a single other person. Give time delay of ~20s to give chance for user to look around and get familiar with environment.
+Looking around the classroom, ALEX realizes to his dismay that he does not know a single other person. Give time delay of ~20s to give chance for user to look around and get familiar with environment.
 
 ALEX: *Wow I don't know anyone else in this class...great. I really don't want a repeat of last year. Oh God that was so embarassing. I hope no one here remembers. Oh well, maybe this year will different. Ha! That's a wish. Seriously Alex, get it together. You know what, I actually have a good feeling about this. I'm going to be ok.*
 
@@ -55,8 +55,15 @@ ALEX: *Great. They don't want me in their group. NO ONE wants me in their group.
 
 ## Section V: Inner Monologue ##
 
+After ALEX's initial interaction with the group, his thoughts start to spiral out of control.
+
 ## Section VI: Anxiety Climax ##
 
 ## Section VII: Deep Breathing ##
 
 ## Section VIII: Ending ##
+
+## Footnotes ##
+
+<sup>1<sup> **Filtering**: thinking only negative thoughts
+<sup>2<sup> **Catastrophizing**: thinking worst case scenario for current or future scenarios; jumping to conclusion that everything bad that happens is a catastrophe
