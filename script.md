@@ -54,7 +54,7 @@ ALEX: *Great. They don't want me in their group. NO ONE wants me in their group.
 
 ## Section V: Inner Monologue ##
 
-After ALEX's initial interaction with the group, his thoughts start to spiral out of control. His thought process begins to exhibit both fliltering<sup>[1](#filtering)</sup> and catastrophizing<sup>[2](#catastrophizing)</sup>.
+After ALEX's initial interaction with the group, his thoughts start to spiral out of control. His thought process begins to exhibit both fliltering<sup>[4](#filtering)</sup> and catastrophizing<sup>[5](#catastrophizing)</sup>.
 
 ## Section VI: Anxiety Climax ##
 
