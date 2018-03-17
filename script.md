@@ -10,9 +10,21 @@
 
 ## Section I: Introduction ##
 
-It is the first day of class for the new school year. The camera fades into ALEX sitting at his/her desk in the front of the classroom. Looking around the classroom, ALEX realizes to his/her dismay that (s)he does not know a single other person.
+It is the first day of class for the new school year. The camera fades into ALEX sitting at his/her desk in the front of the classroom.
 
-ALEX: *Wow I don't know anyone else in this class...great. I really don't want a repeat of last year. Oh God that was so embarassing. Oh well, maybe this year will different. Ha! That's a wish. Seriously Alex, get it together. You know what, I actually have a good feeling about this. I'm going to be ok.*
+ALEX: *Hmmm I wonder if I know anyone in this class this year. I'll do a casual peek to check and see.*
+
+Trigger waits until users looks to either side of peripherals. If 10s go by and user still has not looked around, one of optional dialogues below is chosen randomly and triggers on a loop until user looks around.
+
+ALEX: *Just do it already, no one's paying attention to you anyway.*
+ALEX: *Man up and get it over with. Stop being so soft.*
+ALEX: *Pretend like you're looking at the clock or something. Be casual. Be cool.*
+ALEX: *What are you waiting for, just DO IT.*
+ALEX: *Ok I'm gunna stop thinking about it and actually do it...NOW. Ok NOW. Wait NOW. NOW...Wow I'm pathetic.*
+
+Looking around the classroom, ALEX realizes to his/her dismay that (s)he does not know a single other person. Give time delay of ~20s to give chance for user to look around and get familiar with environment.
+
+ALEX: *Wow I don't know anyone else in this class...great. I really don't want a repeat of last year. Oh God that was so embarassing. I hope no one here remembers. Oh well, maybe this year will different. Ha! That's a wish. Seriously Alex, get it together. You know what, I actually have a good feeling about this. I'm going to be ok.*
 
 ## Section II: Break into Groups ##
 
@@ -20,8 +32,14 @@ MR. GARVEY: Ok class, it looks like everyone is here so let's begin. My name is 
 
 ALEX: *Oh great, he already has high expectations for us. I can't wait until I inevitably let him down like I do for everyone else.*
 
-<!-- chose 21 as realistic arbitrary number of students, can change in future -->
-MR. GARVEY: One of my goals this year is to implement more collaborate work among my students. So to kick things off, I want everyone to form groups of three. There should be 21 of you total, so everyone must be in a group. Aaaand, go!
+<!-- chose 21 as realistic arbitrary number of students, can change in future to something else divisible by 3 -->
+MR. GARVEY: One of my goals this year is to implement more collaborate work among my students. So to kick things off, I want everyone to form groups of three and say one interesting thing you did over the summer as well as what you are most looking forward to this year. There should be 21 of you total, so everyone must be in a group. Aaaand, go!
+
+ALEX: *FUCK. I need to find a group to join right now. I don't care who it is, I just can't be left alone.*
+
+ALEX frantically looks around classroom. When ALEX looks at other students, this triggers them to move farther away.
+
+ALEX: *Shit, shit, shit. Everyone's already in a group. Oh my God, oh my God, oh my God. Ok, ok, ok. Ummmmmmmm what do I do, what do I do, what do I do. I don't know...*
 
 ## Section III: Forced into Group ##
 
