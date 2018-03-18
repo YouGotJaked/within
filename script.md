@@ -52,17 +52,85 @@ ALEX: *Great. They don't want me in their group. NO ONE wants me in their group.
 
 ## Section IV: Group Interaction ##
 
+**NEED TO ADD THIS SECTION**
+
 ## Section V: Inner Monologue ##
 
-After ALEX's initial interaction with the group, his thoughts start to spiral out of control. His thought process begins to exhibit both fliltering<sup>[4](#filtering)</sup> and catastrophizing<sup>[5](#catastrophizing)</sup>.
+After ALEX's initial interaction with the group, his thoughts start to spiral out of control. His thought process begins to exhibit both fliltering<sup>[4](#filtering)</sup> and catastrophizing<sup>[5](#catastrophizing)</sup>. ALEX's breathing and heart rate slowly increase in speed and volume.
 
-ALEX: *Why does this always happen to me? Why am I not better? Why doesn't anyone like me?  Seriously, it hasn't even been five minutes and everyone already hates me. I bet Mr. Garvey is already annoyed with me too. He asked us to do one simple thing, and I couldn't even do that. I can't do anything right. That's probably why no one wanted me in their group. They dont' wanna be associated with someone as undesirable as me.*
+ALEX: *Why does this always happen to me? Why am I not better? Why doesn't anyone like me?  Seriously, it hasn't even been five minutes and everyone already hates me. I bet Mr. Garvey is already annoyed with me too. He asked us to do one simple thing, and I couldn't even do that. I can't do anything right. That's probably why no one wanted me in their group. They don't wanna be associated with someone as undesirable as me.*
 
 ## Section VI: Anxiety Climax ##
 
+ALEX's breathing is now very noticable, almost as if he is about to hyperventilate. His heart rate is racing so fast it seems his heart is going to jump out of his chest. His vision begins to blur<sup>[6](#blur)</sup> and lighting seems to be burning hot. Thoughts are racing through his head, and he cannot seem to control them.
+
+ALEX: *SHUT UP SHUT UP SHUT UP!*
+
+**NEED TO ADD REST OF CLIMAX**
+
 ## Section VII: Deep Breathing ##
 
+CLAIRE, a fellow student who has been struggling with GAD for some time now, notices Alex experiencing an anxiety attack.
+
+CLAIRE: Hey there, everything is going to be ok. There is nothing to be afraid of. I know this feels very real to you right now, but please know that is this only temporary. I'm going to help you through this. I'll be right here by your side; I'm staying with you until this is over, ok? I promise there will be no judgement. I'm here only to support you.
+
+ALEX is so overwhelmed that he cannot seem to speak, no matter how hard he tries. If ALEX is not looking at CLAIRE, the next dialogue is delayed ~10s to show that CLAIRE is not trying to rush the process and is willing to be patient.
+
+CLAIRE: I want you to know that just because you can't verbalize the feelings causing your anxiety doesn't make them less valid. I too suffer from anxiety, and I think I have something that might help. Would you be willing to give it a shot? It's perfectly ok if you don't want to.
+
+ALEX: Y-yeah ok. Let's try it.
+
+CLAIRE: Perfect! So we're going to try a technique my counselor showed me called diaphragmatic breathing. It doesn't get rid of the anxiety all together, but it really helps me take the edge off and ride it out. So what you're going to want to do is put one hand on your chest and the other on your stomach, like this.
+
+CLAIRE moves her hands to the diaphragmaetic breathing position.
+
+CLAIRE: First take a slow breath in through your nose. Try to breathe into your lower belly. You should feel it expand a bit. Go ahead and try that and hold your breath for a second or two.
+
+Give time delay of ~15s for user to assemble into position.
+
+CLAIRE: You got it! Now exhale slowly through your mouth. Wait a few seconds, and then take another slow breath in through your nose.
+
+Give another time delay of ~15s for user to attempt breathing technique.
+
+CLAIRE: And that's all there is to it. Let's try it for about a minute and see how you feel after.
+
+CLAIRE cycles through the steps several times, guiding ALEX through each step. Give a time delay of ~60s.
+
 ## Section VIII: Ending ##
+
+CLAIRE: Yes that's exactly it! You're doing fantastic. I can already see a huge improvement. Oh hey, I don't think I ever got your name. Do you mind me asking what your name is?
+
+ALEX: Alex.
+
+CLAIRE: Alex! Well it is a pleasure to formally meet you. I'm Claire by the way.
+
+School bell rings.
+
+CLAIRE: Oh looks like I gotta run to my next class. But I'll see you around Alex?
+
+MR. GARVEY: Ok class that's going to be for today. Be prepared to start talking about gene therapy next class. Have a great rest of your first day!
+
+All of the students get up and head toward the door to leave to their class. ALEX remains seated in his chair.
+
+MR. GARVEY: Oh hey Claire, could I talk to you briefly before you go? I'll write you a note to give to your next teacher so you don't get in trouble in case you're tardy.
+
+CLAIRE: Of course Mr. Garvey.
+
+CLAIRE gets up and walks to MR. GARVEY's desk.
+
+MR. GARVEY: Hey listen Claire, I just really want to thank you for helping out with Alex today. I'm going to be honest, I really had no idea what was happening, so I wasn't sure how to handle the situation. But it looks like you knew exactly what to do.
+
+CLAIRE: Thank you Mr. Garvey, I really appreciate it.
+
+MR. GARVEY: Are you busy after school today? If not, do you think you could meet me here and walk me through the steps you took to make sure Alex was ok? If this happens to him or another student in the future, I want to make sure I can address the situation properly.
+
+CLAIRE: I would love to! I will see you this afternoon at 3:00 sharp.
+
+MR. GARVEY: Thank you Claire. I will see you then. Oh and don't forget this!
+
+MR. GARVEY hands CLAIRE the note.
+
+CAMERA fades to black.
 
 ## Footnotes ##
 
@@ -75,3 +143,5 @@ ALEX: *Why does this always happen to me? Why am I not better? Why doesn't anyon
 <a name="filtering">[4]</a> **Filtering**: thinking only negative thoughts
 
 <a name="catastrophizing">[5]</a> **Catastrophizing**: thinking worst case scenario for current or future scenarios; jumping to conclusion that everything bad that happens is a catastrophe
+
+<a name="blur">[6]</a> Need to determine a nausea threshold so that user's dont get sick but also notice the change in vision
