@@ -41,7 +41,7 @@ MR. GARVEY: One of my goals this year is to implement more collaborate work amon
 
 ALEX: *FUCK. I need to find a group to join right now. I don't care who it is, I just can't be left alone.*
 
-ALEX frantically looks around classroom. ALEX looks over at FINN<sup[4](#group)</sup>.
+ALEX frantically looks around classroom. ALEX looks over at FINN<sup>[4](#group)</sup>.
 
 ALEX: Hey are you in a group already?
 
