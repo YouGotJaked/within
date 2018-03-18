@@ -157,7 +157,7 @@ Camera fades to black and experience ends.
 
 <a name="students">[3]</a> Chose 21 as realistic arbitrary number of students, can change in future to something else divisible by 3
 
-<a name="group">[4]</a> Order does not matter, trigger occurs regardless if user looks to LARA/FINN first
+<a name="group">[4]</a> Order does not matter, trigger occurs regardless if user looks to Lara/Finn first
 
 <a name="filtering">[5]</a> **Filtering**: thinking only negative thoughts
 
