@@ -37,7 +37,7 @@ MR. GARVEY: Ok class, it looks like everyone is here so let's begin. My name is 
 
 ALEX: *Oh great, he already has high expectations for us. I can't wait until I inevitably let him down like I do for everyone else.*
 
-MR. GARVEY: One of my goals this year is to implement more collaborate work among my students. So to kick things off, I want everyone to form groups of three and say one interesting thing you did over the summer as well as what you are most looking forward to this year. There should be 21<sup>[3](#students)</sup> of you total, so everyone must be in a group. Aaaand, go!
+MR. GARVEY: One of my goals this year is to implement more collaborate work among my students. So to kick things off, I want everyone to form groups of three and say one interesting thing you did over the summer as well as what you are most looking forward to this year. There should be 15<sup>[3](#students)</sup> of you total, so everyone must be in a group. Aaaand, go!
 
 ALEX: *FUCK. I need to find a group to join right now. I don't care who it is, I just can't be left alone.*
 
