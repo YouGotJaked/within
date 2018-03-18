@@ -61,9 +61,9 @@ ALEX: *Shit, shit, shit. Everyone's already in a group. Oh my God, oh my God, oh
 
 MR. GARVEY scans around the room to check and see if all the students are in a group.
 
-MR. GARVEY: Ok, is everyone in a group now? Oh wait. Hey Alex, you need to be in a group for this exercise. Hmm, let's see who only has a group of two... It looks like Finn and Lara need a third parter. Why don't you go ahead and join them?
+MR. GARVEY: Ok, is everyone in a group now? Oh wait. Hey Alex, you need to be in a group for this exercise. Hmm, let's see who only has a group of two... It looks like Finn and Rose need a third parter. Why don't you go ahead and join them?
 
-FINN and LARA look at each other and move closer to ALEX. Their body language seems to indicate they are indifferent about ALEX joining their group.
+FINN and ROSE look at each other and move closer to ALEX. Their body language seems to indicate they are indifferent about ALEX joining their group.
 
 ALEX: *Great. They don't want me in their group. NO ONE wants me in their group. I don't blame them. I'm so worthless anyway.*
 
