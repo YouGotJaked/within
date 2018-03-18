@@ -17,9 +17,13 @@ ALEX: *Hmmm I wonder if I know anyone in this class this year. I'll do a casual 
 Trigger waits until users looks to either side of peripherals. If 10s go by and user still has not looked around, one of optional dialogues below is chosen randomly and triggers on a loop until user looks around.
 
 ALEX: *Just do it already, no one's paying attention to you anyway.*
+
 ALEX: *Man up and get it over with. Stop being so soft.*
+
 ALEX: *Pretend like you're looking at the clock or something. Be casual. Be cool.*
+
 ALEX: *What are you waiting for, just DO IT.*
+
 ALEX: *Ok I'm gunna stop thinking about it and actually do it...NOW. Ok NOW. Wait NOW. NOW...Wow I'm pathetic.*
 
 Looking around the classroom, ALEX realizes to his dismay that he does not know a single other person. Give time delay of ~20s to give chance for user to look around and get familiar with environment.
