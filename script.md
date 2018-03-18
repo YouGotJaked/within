@@ -124,13 +124,13 @@ CLAIRE: Thank you Mr. Garvey, I really appreciate it.
 
 MR. GARVEY: Are you busy after school today? If not, do you think you could meet me here and walk me through the steps you took to make sure Alex was ok? If this happens to him or another student in the future, I want to make sure I can address the situation properly.
 
-CLAIRE: I would love to! I will see you this afternoon at 3:00 sharp.
+CLAIRE: I would love to! I will see you this afternoon at 3 o'clock sharp.
 
 MR. GARVEY: Thank you Claire. I will see you then. Oh and don't forget this!
 
 MR. GARVEY hands CLAIRE the note.
 
-CAMERA fades to black.
+Camera fades to black and experience ends.
 
 ## Footnotes ##
 
