@@ -1,6 +1,6 @@
 # Within #
 
-## Users ##
+## Characters ##
 
 - ALEX<sup>[1](#alex)</sup>: user
 - LARA: student to left
