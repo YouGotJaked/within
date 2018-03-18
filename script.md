@@ -4,7 +4,8 @@
 
 - ALEX<sup>[1](#alex)</sup>: user
 - LARA: student to left
-- FINN: student to right
+- FINN: student to right, group memeber #1
+- ROSE: student to far right, group member #2
 - CLAIRE: helpful student
 - MR. GARVEY<sup>[2](#teacher)</sup>: teacher
 
@@ -26,7 +27,7 @@ ALEX: *What are you waiting for, just DO IT.*
 
 ALEX: *Ok I'm gunna stop thinking about it and actually do it...NOW. Ok NOW. Wait NOW. NOW...Wow I'm pathetic.*
 
-Looking around the classroom, ALEX realizes to his dismay that he does not know a single other person. Give time delay of ~20s to give chance for user to look around and get familiar with environment.
+Looking around the classroom, ALEX realizes to his dismay that he does not know a single other person. Trigger occurs when ALEX looks at both LARA and FINN.
 
 ALEX: *Wow I don't know anyone else in this class...great. I really don't want a repeat of last year. Oh God that was so embarassing. I hope no one here remembers. Oh well, maybe this year will different. Ha! That's a wish. Seriously Alex, get it together. You know what, I actually have a good feeling about this. I'm going to be ok.*
 
@@ -40,7 +41,19 @@ MR. GARVEY: One of my goals this year is to implement more collaborate work amon
 
 ALEX: *FUCK. I need to find a group to join right now. I don't care who it is, I just can't be left alone.*
 
-ALEX frantically looks around classroom. When ALEX looks at other students, this triggers them to move farther away.
+ALEX frantically looks around classroom. ALEX looks over at FINN<sup[4](#group)</sup>.
+
+ALEX: Hey are you in a group already?
+
+Looking at FINN causes him to look away and move to group with ROSE.
+
+ALEX looks at LARA to trigger next audio sequence:
+
+ALEX: Do you need another...
+
+LARA: Nah we already have a group of three.
+
+LARA looks away and joins rest of group.
 
 ALEX: *Shit, shit, shit. Everyone's already in a group. Oh my God, oh my God, oh my God. Ok, ok, ok. Ummmmmmmm what do I do, what do I do, what do I do. I don't know...*
 
@@ -60,13 +73,13 @@ ALEX: *Great. They don't want me in their group. NO ONE wants me in their group.
 
 ## Section V: Inner Monologue ##
 
-After ALEX's initial interaction with the group, his thoughts start to spiral out of control. His thought process begins to exhibit both fliltering<sup>[4](#filtering)</sup> and catastrophizing<sup>[5](#catastrophizing)</sup>. ALEX's breathing and heart rate slowly increase in speed and volume.
+After ALEX's initial interaction with the group, his thoughts start to spiral out of control. His thought process begins to exhibit both fliltering<sup>[5](#filtering)</sup> and catastrophizing<sup>[6](#catastrophizing)</sup>. ALEX's breathing and heart rate slowly increase in speed and volume.
 
 ALEX: *Why does this always happen to me? Why am I not better? Why doesn't anyone like me?  Seriously, it hasn't even been five minutes and everyone already hates me. I bet Mr. Garvey is already annoyed with me too. He asked us to do one simple thing, and I couldn't even do that. I can't do anything right. That's probably why no one wanted me in their group. They don't wanna be associated with someone as undesirable as me.*
 
 ## Section VI: Anxiety Climax ##
 
-ALEX's breathing is now very noticable, almost as if he is about to hyperventilate. His heart rate is racing so fast it seems his heart is going to jump out of his chest. His vision begins to blur<sup>[6](#blur)</sup> and lighting seems to be burning hot. Thoughts are racing through his head, and he cannot seem to control them.
+ALEX's breathing is now very noticable, almost as if he is about to hyperventilate. His heart rate is racing so fast it seems his heart is going to jump out of his chest. His vision begins to blur<sup>[7](#blur)</sup> and lighting seems to be burning hot. Thoughts are racing through his head, and he cannot seem to control them.
 
 ALEX: *SHUT UP SHUT UP SHUT UP!*
 
@@ -144,8 +157,10 @@ Camera fades to black and experience ends.
 
 <a name="students">[3]</a> Chose 21 as realistic arbitrary number of students, can change in future to something else divisible by 3
 
-<a name="filtering">[4]</a> **Filtering**: thinking only negative thoughts
+<a name="group">[4]</a> Order does not matter, trigger occurs regardless if user looks to LARA/FINN first
 
-<a name="catastrophizing">[5]</a> **Catastrophizing**: thinking worst case scenario for current or future scenarios; jumping to conclusion that everything bad that happens is a catastrophe
+<a name="filtering">[5]</a> **Filtering**: thinking only negative thoughts
 
-<a name="blur">[6]</a> Need to determine a nausea threshold so that user's dont get sick but also notice the change in vision
+<a name="catastrophizing">[6]</a> **Catastrophizing**: thinking worst case scenario for current or future scenarios; jumping to conclusion that everything bad that happens is a catastrophe
+
+<a name="blur">[7]</a> Need to determine a nausea threshold so that user's dont get sick but also notice the change in vision
