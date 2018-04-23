@@ -67,3 +67,5 @@ Notes:
 
 	trigger with line of sight
 	focus on 1 thing to teach through animation and timing of interact
+
+Remeber to allow spacing for audio to process
