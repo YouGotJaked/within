@@ -3,16 +3,7 @@
 	"EngineAssociation": "4.17",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "Within_VR_Test",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
+	
 	"Plugins": [
 		{
 			"Name": "ControlRig",
