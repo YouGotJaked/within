@@ -1,24 +1,33 @@
 {
-	"FileVersion": 3,
-	"EngineAssociation": "4.17",
-	"Category": "",
-	"Description": "",
-	
-	"Plugins": [
-		{
-			"Name": "ControlRig",
-			"Enabled": true
-		},
-		{
-			"Name": "SteamAudio",
-			"Enabled": true
-		}
-	],
-	"AdditionalPluginDirectories": [
-		"Intermediate/Plugins"
-	],
-	"TargetPlatforms": [
-		"PS4",
-		"WindowsNoEditor"
-	]
+  "FileVersion": 3,
+  "EngineAssociation": "4.17",
+  "Category": "",
+  "Description": "",
+  "Modules": [
+    {
+      "Name": "Within_VR_Test",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "AdditionalDependencies": [
+        "Engine"
+      ]
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "ControlRig",
+      "Enabled": true
+    },
+    {
+      "Name": "SteamAudio",
+      "Enabled": true
+    }
+  ],
+  "AdditionalPluginDirectories": [
+    "Intermediate/Plugins"
+  ],
+  "TargetPlatforms": [
+    "PS4",
+    "WindowsNoEditor"
+  ]
 }
